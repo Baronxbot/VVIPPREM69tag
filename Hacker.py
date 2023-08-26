@@ -36,7 +36,7 @@ async def start(event):
         Button.url('Bdsm', 'https://t.me/+2tyGsbIO7-E2NGU1')
       ], 
       [ 
-        Button.url('Hentai', 'https://t.me/+G6pYPjyv_GJlNGM1')
+        Button.url('Hentai', 'https://t.me/+vT6fFhFvsNZhN2Vl')
       ], 
       [ 
         Button.url('Random1', 'https://t.me/+_ODzudM3VRc0Yjk1'), 
