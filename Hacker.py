@@ -56,14 +56,14 @@ async def help(event):
     buttons=(
       [
         Button.url('👩‍💻 Admin', 'https://t.me/xxgt4us'),
-        Button.url('Bot Admin', 'https://t.me/ordervvip_69bot')
+        Button.url('🤖 Bot Admin', 'https://t.me/ordervvip_69bot')
       ],
       [
         Button.url('Dana', 'https://link.dana.id/qr/owbvx6i'), 
-        Button.url('Qris', 'https://t.me/pay_area69')
+        Button.url('Qris', 'https://telegra.ph/Qris-08-26-2')
       ],
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/PemuasHasrat_Horny/46')
+        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ]
     )
   )
