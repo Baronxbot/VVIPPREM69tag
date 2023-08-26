@@ -39,10 +39,10 @@ async def start(event):
         Button.url('Hentai', 'https://t.me/+G6pYPjyv_GJlNGM1'), 
       ], 
       [ 
-        Button.url('Random1', 'https://t.me/+vafRZM3V_HI1N2Q1'), 
-        Button.url('Random2', 'https://t.me/+vUJLYw2PQF0xNTA1')
-        Button.url('Random3', 'https://t.me/+vafRZM3V_HI1N2Q1'), 
-        Button.url('Random4', 'https://t.me/+vUJLYw2PQF0xNTA1')
+        Button.url('Random1', 'https://t.me/+_ODzudM3VRc0Yjk1'), 
+        Button.url('Random2', 'https://t.me/+I1gHwnaRh2FlNDk1')
+        Button.url('Random3', 'https://t.me/+fdGS9EPjxAI5MDQ1'), 
+        Button.url('Random4', 'https://t.me/+WBcdV9sTt1A3YjA1')
       ]
     )
   )
