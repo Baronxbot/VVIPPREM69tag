@@ -1,0 +1,22 @@
+{
+  "logo":"https://te.legra.ph/file/5e007a44ced34ccb65a27.jpg",
+  "name": "AARAV_XD Tag All Bot",
+  "description": "A member tagger bot for telegram Groups.",
+  "env": {
+    "TOKEN": {
+      "description": "Enter bot token Get It From @botfather.",
+      "value": "5937294943:AAF__32hQvheNIGI8D3MiTr30HNhXm56oF8"
+    },
+    "APP_ID": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": "14672956"
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": "115e8242ea0423893160bb61a9e05eab"
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
