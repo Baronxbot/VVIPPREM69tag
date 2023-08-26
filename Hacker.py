@@ -25,44 +25,47 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('Barat', 'https://t.me/+ogAPs2a5V6Q5MDg1'),
-        Button.url('Indo', 'https://t.me/+ZPGGejCtidI2YmZl'),
+        Button.url('Indo', 'https://t.me/+ogAPs2a5V6Q5MDg1'),
+        Button.url('Barat', 'https://t.me/+ZPGGejCtidI2YmZl'),
         Button.url('Japan', 'https://t.me/+AfnaaWvPy_M3OGZl'), 
-        Button.url('Random', 'https://t.me/+2P_gt1UC8NUyNTdl')
+        Button.url('Special', 'https://t.me/+2P_gt1UC8NUyNTdl')
       ], 
       [
-        Button.url('Hijab', 'https://t.me/+Dnj_Rl12uz4yNDQ9'),
-        Button.url('Colmek', 'https://t.me/+1jMoO7jdWfcyNDM9'), 
-        Button.url('Galery Hot', 'https://t.me/+SydNzuyT4nc1Mjc1')
+        Button.url('Lesbi', 'https://t.me/+Dnj_Rl12uz4yNDQ9'),
+        Button.url('Gay', 'https://t.me/+1jMoO7jdWfcyNDM9'), 
+        Button.url('Bdsm', 'https://t.me/+SydNzuyT4nc1Mjc1')
       ], 
       [ 
-        Button.url('Vvip Rare', 'https://t.me/+G6pYPjyv_GJlNGM1'), 
-        Button.url('Vvip Sultan', 'https://t.me/+MZS6Bh6Bmag4MzI9'),
-        Button.url('Vvip Bocil', 'https://t.me/+7BDWowl_LBA4YTQ1')
+        Button.url('Hentai', 'https://t.me/+G6pYPjyv_GJlNGM1'), 
       ], 
       [ 
-        Button.url('Vvip Cosplay Hot', 'https://t.me/+vafRZM3V_HI1N2Q1'), 
-        Button.url('Vvip Durasi 1Jam ', 'https://t.me/+vUJLYw2PQF0xNTA1')
-      ], 
-      [
-        Button.url('Vvip Anak Sekolah Cabul', 'https://t.me/+kaOTRtB1q2llMDBl')
+        Button.url('Random1', 'https://t.me/+vafRZM3V_HI1N2Q1'), 
+        Button.url('Random2', 'https://t.me/+vUJLYw2PQF0xNTA1')
+        Button.url('Random3', 'https://t.me/+vafRZM3V_HI1N2Q1'), 
+        Button.url('Random4', 'https://t.me/+vUJLYw2PQF0xNTA1')
       ]
     )
   )
 
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "𝙏𝙚𝙠𝙣𝙞𝙨 𝙊𝙧𝙙𝙚𝙧:\n\n1. Pilih VVIP yang Anda inginkan cek tombol list harga\n2. Transfer sesuai harga VVIP (Hub Admin) \n3. Kirim bukti pembayaran ke admin\n4. Anda akan di acc setalah mengirimkan bukti paembayaran"
+  helptext = "𝙏𝙚𝙠𝙣𝙞𝙨 𝙊𝙧𝙙𝙚𝙧:\n\n1. Pilih VVIP yang Anda inginkan (cek tombol list harga dan deskripsi) \n2. Transfer sesuai harga VVIP (pilih payment yang tersedia), Jika anda menggunakan via m-banking hub admin\n3. Kirim bukti pembayaran ke admin ataw bot acc admin\n4. Anda akan di acc setalah mengirimkan bukti pembayaran"
   await event.reply(
     helptext,
     link_preview=False,
     buttons=(
       [
         Button.url('👩‍💻 Admin', 'https://t.me/CASEYYTRUSTED'),
-        Button.url('🛒 Testy', 'https://t.me/testi_casey')
+        Button.url('Bot Admin', 'https://t.me/ordervvip_69bot')
       ],
       [
-        Button.url('List Harga', 'https://t.me/PemuasHasrat_Horny/46')
+        Button.url('Dana', 'https://t.me/PemuasHasrat_Horny/46')
+        Button.url('Ovo', 'https://t.me/pay_area69')
+        Button.url('Gopay', 'https://t.me/pay_area69')
+        Button.url('Qris', 'https://t.me/pay_area69')
+      ],
+      [
+        Button.url('List Harga dan Deskripsi', 'https://t.me/PemuasHasrat_Horny/46')
       ]
     )
   )
