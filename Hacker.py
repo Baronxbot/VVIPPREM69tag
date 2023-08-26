@@ -21,19 +21,19 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-    "𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝙙𝙖𝙩𝙖𝙣𝙜 𝙙𝙞 𝘽𝙤𝙩 𝙑𝙑𝙄𝙋 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝘾𝘼𝙎𝙀𝙔\n\nUntuk dapat di acc dalam VVIP Premium Casey anda harus order terlebih dahulu\nKetik /help untuk order sekarang juga (hub admin)",
+    "𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝙙𝙖𝙩𝙖𝙣𝙜 𝙙𝙞 𝘽𝙤𝙩 𝙑𝙑𝙄𝙋 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝟔𝟗\n\nUntuk dapat di acc dalam VVIP Premium Casey anda harus order terlebih dahulu\nKetik /help untuk order sekarang juga (hub admin)",
     link_preview=False,
     buttons=(
       [
-        Button.url('Indo', 'https://t.me/+ogAPs2a5V6Q5MDg1'),
-        Button.url('Barat', 'https://t.me/+ZPGGejCtidI2YmZl'),
-        Button.url('Japan', 'https://t.me/+AfnaaWvPy_M3OGZl'), 
-        Button.url('Special', 'https://t.me/+2P_gt1UC8NUyNTdl')
+        Button.url('Indo', 'https://t.me/+JwJvH6WYxJUxYzM9'),
+        Button.url('Barat', 'https://t.me/+sp7IZ5sqyaQ5NzVh'),
+        Button.url('Japan', 'https://t.me/+zYNYxA8ynMMyODA9'), 
+        Button.url('Special', 'https://t.me/+QgE_FnYmJyNjM2Q1')
       ], 
       [
-        Button.url('Lesbi', 'https://t.me/+Dnj_Rl12uz4yNDQ9'),
-        Button.url('Gay', 'https://t.me/+1jMoO7jdWfcyNDM9'), 
-        Button.url('Bdsm', 'https://t.me/+SydNzuyT4nc1Mjc1')
+        Button.url('Lesbi', 'https://t.me/+U_Rn_3JHTFI5Njll'),
+        Button.url('Gay', 'https://t.me/+gmjZ_HYqglwwMDZl'), 
+        Button.url('Bdsm', 'https://t.me/+2tyGsbIO7-E2NGU1')
       ], 
       [ 
         Button.url('Hentai', 'https://t.me/+G6pYPjyv_GJlNGM1'), 
