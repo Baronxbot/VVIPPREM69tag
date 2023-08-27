@@ -14,14 +14,14 @@ LOGGER = logging.getLogger(__name__)
 
 api_id = int(os.environ.get("APP_ID", "22825629"))
 api_hash = os.environ.get("API_HASH", "e8db542482a1638b4e5b03ed1ddae521")
-bot_token = os.environ.get("TOKEN", "6185575028:AAHMwvC_1BgN8zr7SK7oQ-F229eyDWKw-Dk")
+bot_token = os.environ.get("TOKEN", "6637498343:AAHhPrVPEx7qRVoMJCSn9uXTeFK3z_iO-AE")
 client = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
 spam_chats = []
 
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-    "𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗱𝗮𝘁𝗮𝗻𝗴 𝗱𝗶 𝗕𝗼𝘁 𝗩𝗜𝗣 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗲𝗹𝗹𝗲\n\nUntuk dapat di acc dalam VVIP Premium elle anda harus order terlebih dahulu\nKetik /help untuk order sekarang juga (hub admin)",
+    "✨ 𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝗻𝘁𝗮𝗻𝗴 𝗗𝗶 𝗩𝗩𝗜𝗣 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝟲𝟵/n/n➡️ Silahkan Pilih VVIP yang Anda Inginkan (Cek list harga dan deskripsi) \n➡️ Untuk dapat di acc dalam VVIP anda harus tf terlebih dahulu ke payment kami (pilih opsi dana dan qris, hubungi admin jika anda tranfer menggunakan opsi lain) \n➡️ Kirim bukti pembayaran pada bot asisten admin dengan Klik Order Sekarang.",
     link_preview=False,
     buttons=(
       [
