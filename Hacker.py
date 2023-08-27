@@ -21,7 +21,7 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-    "✨ 𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝗻𝘁𝗮𝗻𝗴 𝗗𝗶 𝗩𝗩𝗜𝗣 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝟲𝟵 \n\n➡️ Silahkan Pilih VVIP yang Anda Inginkan (Cek list harga dan deskripsi) \n➡️ Untuk dapat di acc dalam VVIP anda harus tf terlebih dahulu ke payment kami (pilih opsi dana dan qris, hubungi admin jika anda tranfer menggunakan opsi lain) \n➡️ Kirim bukti pembayaran pada bot asisten admin dengan Klik Order Sekarang.",
+    "✨ 𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝗻𝘁𝗮𝗻𝗴 𝗗𝗶 𝗩𝗩𝗜𝗣 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝟲𝟵 \n\n➡️ Silahkan Pilih VVIP yang Anda Inginkan (Cek list harga dan deskripsi) \n➡️ Untuk dapat di acc dalam VVIP anda harus tf terlebih dahulu sesuai dengan harga VVIP ke payment kami (pilih opsi dana dan qris, hubungi admin jika anda tf menggunakan opsi lain) \n➡️ Kirim bukti pembayaran pada bot asisten admin dengan Klik Order Sekarang.",
     link_preview=False,
     buttons=(
       [
