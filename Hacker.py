@@ -25,6 +25,9 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
+        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+      ], 
+      [
         Button.url('Indo', 'https://t.me/+JwJvH6WYxJUxYzM9'),
         Button.url('Barat', 'https://t.me/+sp7IZ5sqyaQ5NzVh'),
         Button.url('Japan', 'https://t.me/+zYNYxA8ynMMyODA9'), 
@@ -43,44 +46,16 @@ async def start(event):
         Button.url('Random2', 'https://t.me/+I1gHwnaRh2FlNDk1'), 
         Button.url('Random3', 'https://t.me/+fdGS9EPjxAI5MDQ1'), 
         Button.url('Random4', 'https://t.me/+WBcdV9sTt1A3YjA1')
-      ]
-    )
-  )
-
-@client.on(events.NewMessage(pattern="^/help$"))
-async def help(event):
-  helptext = "𝗧𝗲𝗸𝗻𝗶𝘀 𝗢𝗿𝗱𝗲𝗿:\n\n1. Pilih VVIP yang Anda inginkan (cek tombol list harga dan deskripsi) \n2. Transfer sesuai harga VVIP (pilih payment yang tersedia), Jika anda menggunakan via m-banking dll hub admin untuk menanyakan payment lainnya\n3. Kirim bukti pembayaran ke admin ataw bot acc admin\n4. Anda akan di acc setalah mengirimkan bukti pembayaran"
-  await event.reply(
-    helptext,
-    link_preview=False,
-    buttons=(
+      ], 
       [
-        Button.url('👩‍💻 Admin', 'https://t.me/TESTIVVIPELLE'),
-        Button.url('🤖 Bot Admin', 'https://t.me/VVIPJAPELIN_BOT')
+        Button.url('❤️ Dana ', 'https://link.dana.id/qr/owbvx6i'), 
+        Button.url('❤️ Qris', 'https://telegra.ph/Qris-08-26-2')
       ],
       [
-        Button.url('Dana', 'https://link.dana.id/qr/owbvx6i'), 
-        Button.url('Qris', 'https://telegra.ph/Qris-08-26-2')
-      ],
-      [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🛒 Order Sekarang', 'Https://t.me/ordervvip_69bot?start')
       ]
     )
   )
-    
-@client.on(events.NewMessage(pattern="^/settings$"))
-async def help(event):
-  helptext = "Hungungi Bot Teknisi Jika ada Kendala Pada Setiap Bot Kami"
-  await event.reply(
-    helptext,
-    link_preview=False,
-    buttons=(
-      [
-        Button.url('🤖 Teknisi', 'https://t.me/teknisi69_bot')
-      ]
-    )
-  )
-
 
 
 print(">> VVIP STARTED @nakama_asl<<")
