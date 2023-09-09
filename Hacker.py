@@ -25,7 +25,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('👀 Testy', 'https://t.me/+wrS0J0dsDh82NmI1')
       ]
     )
   )
@@ -37,7 +37,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Indo', 'https://t.me/+JwJvH6WYxJUxYzM9'),
@@ -57,7 +57,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Japan', 'https://t.me/+zYNYxA8ynMMyODA9'),
@@ -77,7 +77,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Barat', 'https://t.me/+sp7IZ5sqyaQ5NzVh'),
@@ -97,7 +97,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Special', 'https://t.me/+QgE_FnYmJyNjM2Q1'),
@@ -117,7 +117,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Gay', 'https://t.me/+gmjZ_HYqglwwMDZl'), 
@@ -137,7 +137,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Lesbi', 'https://t.me/+U_Rn_3JHTFI5Njll'),
@@ -157,7 +157,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Bdsm', 'https://t.me/+2tyGsbIO7-E2NGU1'), 
@@ -177,13 +177,15 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
-        Button.url('Random1', 'https://t.me/+_ODzudM3VRc0Yjk1'), 
-        Button.url('Random2', 'https://t.me/+I1gHwnaRh2FlNDk1'), 
-        Button.url('Random3', 'https://t.me/+fdGS9EPjxAI5MDQ1'), 
-        Button.url('Random4', 'https://t.me/+WBcdV9sTt1A3YjA1')
+        Button.url('💌 Random1', 'https://t.me/+_ODzudM3VRc0Yjk1'), 
+        Button.url('💌 Random2', 'https://t.me/+I1gHwnaRh2FlNDk1')
+      ], 
+      [ 
+        Button.url('💌 Random3', 'https://t.me/+fdGS9EPjxAI5MDQ1'), 
+        Button.url('💌 Random4', 'https://t.me/+WBcdV9sTt1A3YjA1')
       ], 
       [
         Button.url('❤️ Dana ', 'https://link.dana.id/qr/owbvx6i'), 
@@ -202,7 +204,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('List Harga dan Deskripsi', 'https://t.me/Listpremium69')
+        Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
         Button.url('💌 Vvip Hentai', 'https://t.me/+gq8z-m94T2E4OWE1'), 
