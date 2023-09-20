@@ -28,19 +28,19 @@ async def start(event):
         Button.url('🌀 List Harga dan Deskripsi', 'https://t.me/Listpremium69')
       ], 
       [
-        Button.url('💌 Vvip Indo', 'https://t.me/+JwJvH6WYxJUxYzM9'),
-        Button.url('💌 Vvip Japan', 'https://t.me/+zYNYxA8ynMMyODA9'),
-        Button.url('💌 Vvip Barat', 'https://t.me/+sp7IZ5sqyaQ5NzVh')
+        Button.url('💌 Indo', 'https://t.me/+JwJvH6WYxJUxYzM9'),
+        Button.url('💌 Japan', 'https://t.me/+zYNYxA8ynMMyODA9'),
+        Button.url('💌 Barat', 'https://t.me/+sp7IZ5sqyaQ5NzVh')
       ], 
       [
-        Button.url('💌 Vvip Bdsm', 'https://t.me/+2tyGsbIO7-E2NGU1'),
-        Button.url('💌 Vvip Gay', 'https://t.me/+gmjZ_HYqglwwMDZl'),
-        Button.url('💌 Vvip Lesbi', 'https://t.me/+U_Rn_3JHTFI5Njll')
+        Button.url('💌 Bdsm', 'https://t.me/+2tyGsbIO7-E2NGU1'),
+        Button.url('💌 Gay', 'https://t.me/+gmjZ_HYqglwwMDZl'),
+        Button.url('💌 Lesbi', 'https://t.me/+U_Rn_3JHTFI5Njll')
       ], 
       [
         
-        Button.url('💌 Vvip Special', 'https://t.me/+4JQ3EUkO5KFjYjA1'),
-        Button.url('💌 Vvip Hentai', 'https://t.me/+gq8z-m94T2E4OWE1'), 
+        Button.url('💌 Special', 'https://t.me/+4JQ3EUkO5KFjYjA1'),
+        Button.url('💌 Hentai', 'https://t.me/+vT6fFhFvsNZhN2Vl'), 
         Button.url('💌 Random', 'https://t.me/+WBcdV9sTt1A3YjA1')
       ], 
       [
