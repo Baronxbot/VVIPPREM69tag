@@ -39,7 +39,7 @@ async def start(event):
       ], 
       [
         
-        Button.url('💌 Vvip Special', 'https://t.me/+QgE_FnYmJyNjM2Q1'),
+        Button.url('💌 Vvip Special', 'https://t.me/+4JQ3EUkO5KFjYjA1'),
         Button.url('💌 Vvip Hentai', 'https://t.me/+gq8z-m94T2E4OWE1'), 
         Button.url('💌 Random', 'https://t.me/+WBcdV9sTt1A3YjA1')
       ], 
